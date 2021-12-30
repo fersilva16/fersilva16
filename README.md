@@ -6,6 +6,7 @@
 [![Linkedin][linkedin-shield]][linkedin-url]
 [![Dev.to][dev.to-shield]][dev.to-url]
 [![Discord][discord-shield]][discord-url]
+[![Wakatime][wakatime-shield]][wakatime-url]
 
 </div>
 
@@ -19,3 +20,5 @@
 [dev.to-url]: https://dev.to/fersilva
 [discord-shield]: https://img.shields.io/badge/-Fernando%230001-black.svg?style=flat-square&logo=discord&logoColor=white&colorB=5865F2
 [discord-url]: https://discord.com/users/323546738600181761
+[wakatime-shield]: https://img.shields.io/badge/-fersilva-black.svg?style=flat-square&logo=wakatime&logoColor=white&colorB=000000
+[wakatime-url]: https://wakatime.com/@fersilva
