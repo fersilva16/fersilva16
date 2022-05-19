@@ -8,6 +8,8 @@
 [![Discord][discord-shield]][discord-url]
 [![Wakatime][wakatime-shield]][wakatime-url]
 
+![Top Langs][top-langs]
+
 </div>
 
 <!-- Links and images -->
@@ -22,3 +24,4 @@
 [discord-url]: https://discord.com/users/323546738600181761
 [wakatime-shield]: https://img.shields.io/badge/-fersilva-black.svg?style=flat-square&logo=wakatime&logoColor=white&colorB=000000
 [wakatime-url]: https://wakatime.com/@fersilva
+[top-langs]: https://github-readme-stats.vercel.app/api/top-langs?username=fersilva16&langs_count=8&layout=compact&theme=material-palenight
